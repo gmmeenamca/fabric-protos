@@ -1,4 +1,4 @@
-module github.com/hyperledger/fabric-protos-go-apiv2
+module github.com/gmmeenamca/fabric-protos-go-apiv2
 
 go 1.25.4
 
