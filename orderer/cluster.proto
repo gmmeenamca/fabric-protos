@@ -39,6 +39,7 @@ message ConsensusRequest {
     string channel = 1;
     bytes payload = 2;
     bytes metadata = 3;
+    bytes signature = 4;
 }
 
 // SubmitRequest wraps a transaction to be sent for ordering.
